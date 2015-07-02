@@ -11,10 +11,10 @@ var NotesList = React.createClass({
 				</li>
 			)
 		});
-		
+
 		return (
 			<ul className="list-group">
-
+				{notes}
 			</ul>
 		)
 	}
