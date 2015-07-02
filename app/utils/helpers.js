@@ -5,7 +5,7 @@ function getRepos(username) {
 };
 
 function getUserInfo(username) {
-	return axios.get('https:///api.github.com.users/' + username);
+	return axios.get('https:///api.github.com/users/' + username);
 };
 
 var helpers = {
