@@ -20,7 +20,8 @@
     "react-router": "~0.13.3",
     "reactfire": "~0.4.0",
     "firebase": "~2.2.7",
-    "axios": "~0.5.4"
+    "axios": "~0.5.4",
+    "re-base": "0.0.11"
   },
   "devDependencies": {
     "babel-core": "~5.6.15",
